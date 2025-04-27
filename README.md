@@ -32,12 +32,8 @@ Make sure you have Python 3 installed.
 
 Clone the repository or copy the code.
 
-Run the file:
+Run the file: python calculator.py
 
-bash
-Copy
-Edit
-python calculator.py
 🖥️ Screenshots
 (You can add a screenshot here later for a better look!)
 
