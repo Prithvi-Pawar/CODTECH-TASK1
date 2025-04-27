@@ -34,11 +34,6 @@ Clone the repository or copy the code.
 
 Run the file: python calculator.py
 
-🖥️ Screenshots
-(You can add a screenshot here later for a better look!)
-
 🤝 Contribution
 Feel free to fork the project, make enhancements, and submit a pull request!
 
-📜 License
-This project is open-source and free to use.
