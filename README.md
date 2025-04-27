@@ -1,4 +1,4 @@
-# CODTECH-TASK1
+# CODTECH-TASK1 (Simple Calculator)
 I have made some changes in this project
 Before it was like this:
 ![Student grade tracker py - Visual Studio Code 21-10-2024 13_56_14](https://github.com/user-attachments/assets/869a29a6-2ec9-443c-8004-57ddc515a3fa)
